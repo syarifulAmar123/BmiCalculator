@@ -40,7 +40,6 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.17",
-    "homepage": "https://syarifulamar123.github.io/BmiCalculator"
+    "tailwindcss": "^3.4.17"
   }
 }
