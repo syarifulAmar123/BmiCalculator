@@ -1,5 +1,7 @@
 {
+  
   "name": "bmi-calculator",
+  "homepage": "https://syarifulamar123.github.io/BmiCalculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
