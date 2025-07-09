@@ -40,7 +40,7 @@ function Input() {
 
   return (
     <div className="h-screen bg-sky-700 flex items-center justify-center px-4 animate-home">
-      <div className="bg-sky-400 shadow-lg p-8 rounded-xl w-full max-w-md">
+      <div className="bg-sky-400 shadow-lg p-12 rounded-xl w-full max-w-md">
         <h1 className="text-center text-3xl font-bold mb-6">
           BMI Calculator
         </h1>
